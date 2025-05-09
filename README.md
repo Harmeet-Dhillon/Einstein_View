@@ -19,3 +19,5 @@ Florence-2: We used this model to get text on the board for road signs. Filtered
 OSX: We use OSX for human pose detection and rendering.
 
 Openpifpaf: We use Openpifpaf over it to check if at the given pose , the key features corresponding to that pose are visible  and correct the poses from YOLO3D accordingly.
+### Team
+Harmeet Dhillon and Rohan Walia
